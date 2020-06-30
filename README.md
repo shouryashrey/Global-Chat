@@ -1,6 +1,6 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-# Flash-Chat - Now Global Chat
+# "Global Chat" - Initally "Flash Chat"
 
 ## Our Goal
 
